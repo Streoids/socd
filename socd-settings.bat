@@ -81,7 +81,7 @@ if exist "%SHORTCUT_PATH%" (
     pause
     goto menu
 )
-:: Fixing PowerShell path issues
+:: powrshl
 powershell -command "$s=(New-Object -COM WScript.Shell).CreateShortcut('%SHORTCUT_PATH%'); $s.TargetPath='%EXE_PATH%'; $s.WorkingDirectory='%~dp0'; $s.Save()"
 echo Shortcut created on your desktop
 pause
