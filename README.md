@@ -5,7 +5,7 @@ imagine you hold 'A' and press 'D' the keyboard with no SOCD will neutralize bot
 If you have SOCD enabled, The keyboard will listen to the last key pressed therefore holding 'A' and pressing 'D' force the keyboard to cancel 'A' so that only 'D' works, vise versa<br>
 # ⚠️Important
 Some games prohibit keyboards with SOCD enabled and can get you banned/kicked in rare cases.<br>
-<b>By using this tool, you acknowledge that you are responsible for its use and i will not be responsible if you get banned or kicked.</b><br>
+<b>By using this tool, you acknowledge that you are responsible for its use and <ins>I will not be responsible if you get banned or kicked.</ins></b><br>
 ## Usage/Installation
 1. Keep the socd-main folder somewhere safe<br>
 2. Run the socd-settings.bat<br>
