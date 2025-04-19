@@ -18,11 +18,11 @@ Some games prohibit keyboards with SOCD enabled and can get you banned/kicked in
 <i>Note that you need to keep the socd-main folder and its contents safe somewhere deleting it will result in SOCD stop working.</i>
 ## What does each file in the folder do?
 <ins><b>config.cfg</b></ins> its stores the data for your keys eg:WASD, ESDF etc.<br>
-<ins><b>socd.exe</b></ins> its the program that controls SOCD to nullify they last keys pressed.<br>
+<ins><b>socd.exe</b></ins> its the program that controls SOCD to nullify the last keys pressed.<br>
 <ins><b>socd-settings</b></ins> manages the socd keybinds, to make a SOCD shortcut and making SOCD run on startup.<br>
 ## How to stop SOCD
 * In task magager -> Processes -> socd.exe -> Rightclick -> endtask.<br>
 <ins>If you have enabled it on startup</ins><br>
 * Press Win+R type shell:startup press enter then delete the socd shortcut.<br>
 
-<i>This will be my first and last commit on SOCD</i><br>
+<i>This will be my first and maybe my last commit on SOCD</i><br>
